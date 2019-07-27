@@ -17,7 +17,7 @@ Analyzing the metrices for customer, revenue, products and AB testing
 #### GoDaddy_Customer_Segmentation.ipynb 
 Program calculate recency, frquency, monetary Value for customer segmentation
 
-#### New_Customer+Lifetime+Value+Prediction.ipynb 
+#### NewCustomer_Lifetime_Value_Prediction.ipynb
 Program to predict the lifetime value of the customer
 
 #### Analyze_ab_test_results_notebook.ipynb  
