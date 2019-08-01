@@ -25,3 +25,6 @@ Program to to help the Godaddy understand if they should implement the new page,
 
 #### Clat document link: 
 https://codelabs-preview.appspot.com/?file_id=1wmGWwT7Bq_RAyiPDAPHvVsZ0MsKq2828oHifZpqeR6w#4
+
+#### Tableau Public
+https://tinyurl.com/info7374-team5-asgn2-tabpub
