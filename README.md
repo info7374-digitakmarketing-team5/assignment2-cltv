@@ -10,8 +10,7 @@ Send an email to group5digitalmarketing2019@gmail.com with the list of email add
 
 ## Modules
 
-#### CustomerLifetimeValue.twbx - Tableau Workbook
-Interactive Visualization dashboards for exploratory data analysis, analyzing customer lifetime value and AB testing
+  1. *CustomerLifetimeValue.twbx* - Tableau Workbook Interactive Visualization dashboards for exploratory data analysis, analyzing customer lifetime value and AB testing
 
 #### GoDaddy_Know_Your_Metrics.ipynb 
 Analyzing the metrices for customer, revenue, products and AB testing
