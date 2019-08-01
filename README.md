@@ -1,4 +1,4 @@
-# assignment2-cltv
+# Assignment2-CLTV
 
 This pipeline was created in Salesforce and BigQuery through an integrator Blendo. Any of the data integrator could be used to connect Salesforce and BigQuery.
 
