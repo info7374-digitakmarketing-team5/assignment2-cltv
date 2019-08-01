@@ -11,6 +11,9 @@ Send an email to group5digitalmarketing2019@gmail.com with the list of email add
 ## Data
   The dataset for this assignment is - godaddy_dataset.csv
 
+## W5H Report 
+  The W5H document is attached as W5H Report and Additional Requirements.pdf
+  
 ## Modules
 
   1. *CustomerLifetimeValue.twbx* - Tableau Workbook Interactive Visualization dashboards for exploratory data analysis, analyzing customer lifetime value and AB testing
