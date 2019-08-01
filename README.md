@@ -23,8 +23,8 @@ Program to predict the lifetime value of the customer
 #### Analyze_ab_test_results_notebook.ipynb  
 Program to to help the Godaddy understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision
 
-#### Clat document link: 
+### Clat document link: 
 https://codelabs-preview.appspot.com/?file_id=1wmGWwT7Bq_RAyiPDAPHvVsZ0MsKq2828oHifZpqeR6w#4
 
-#### Tableau Public
+### Tableau Public
 https://tinyurl.com/info7374-team5-asgn2-tabpub
