@@ -4,7 +4,7 @@ This pipeline was created in Salesforce and BigQuery through an integrator Blend
 
 The refresh schedule is set to after every 24 hour for now in Blendo.
 
-Once the data is pulled to BigQuery, the data could be visualized in any of the BI tools like Tableau, Google Data Studio, or PowerBI.
+Once the data is pulled to BigQuery, the data is visualized in Tableau by creating calculated fields. We have analyzed the data to drive insignts in order help the marketing team make data driven decisions customer segmentation and predicting the lifetime value of customers to target and build better promotional strategies. We have also built a prototype for AB testing experiemnt to analyze 2 versions of ad campaigns. 
 
 Send an email to group5digitalmarketing2019@gmail.com with the list of email address to which the access needs to be provided.
 
