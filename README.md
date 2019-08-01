@@ -9,7 +9,7 @@ Once the data is pulled to BigQuery, the data could be visualized in any of the 
 Send an email to group5digitalmarketing2019@gmail.com with the list of email address to which the access needs to be provided.
 
 ## Data
-  The dataset for this assignment is - 
+  The dataset for this assignment is - godaddy_dataset.csv
 
 ## Modules
 
