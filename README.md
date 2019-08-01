@@ -8,6 +8,9 @@ Once the data is pulled to BigQuery, the data could be visualized in any of the 
 
 Send an email to group5digitalmarketing2019@gmail.com with the list of email address to which the access needs to be provided.
 
+## Data
+  The dataset for this assignment is - 
+
 ## Modules
 
   1. *CustomerLifetimeValue.twbx* - Tableau Workbook Interactive Visualization dashboards for exploratory data analysis, analyzing customer lifetime value and AB testing
